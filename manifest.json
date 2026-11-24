@@ -1,7 +1,7 @@
 {
   "id": "link-logos",
   "name": "Link Logos",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "minAppVersion": "1.1.0",
   "description": "Shows a site icon ahead of external links to common websites.",
   "author": "Andrey Pankov",
