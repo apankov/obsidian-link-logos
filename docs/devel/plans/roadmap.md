@@ -26,6 +26,10 @@ Still without an icon (no source in any simple-icons release): Tactiq, Rutube.
 - [x] Icons in Live Preview (CodeMirror extension), toggle in settings, on by default. Skips code, front matter and math; hidden while the cursor is in the link.
 - [x] Owner tested Live Preview comfort in daily use.
 
+## Next — more sites
+
+- [x] Gemini, Gmail, Google Calendar, Meet and Maps; Perplexity, Notion, Figma, Trello, Linear, Jira and Confluence (`*.atlassian.net`), Loom, Zoom, Discord, Reddit.
+
 ## Community catalog
 
 - [x] Listed in the catalog: https://community.obsidian.md/plugins/link-head-icon

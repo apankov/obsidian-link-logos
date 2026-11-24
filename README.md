@@ -20,7 +20,7 @@ An [Obsidian](https://obsidian.md) plugin that puts a small site icon in front o
 - **Reading view and Live Preview.** In the editor the icon steps aside while your cursor is in the link.
 - **Desktop and mobile.**
 - **Minimal settings.** Works out of the box. The only setting turns editor icons off.
-- **Tiny.** About 15 KB.
+- **Tiny.** About 22 KB.
 
 Trade-off: only the sites listed below get an icon. For every website, use [Link Favicons](https://github.com/joethei/obsidian-link-favicon), which fetches favicons online.
 
@@ -28,12 +28,12 @@ Trade-off: only the sites listed below get an icon. For every website, use [Link
 
 | Category | Sites |
 |---|---|
-| Google | Docs, Sheets, Slides, Forms, Drive |
+| Google | Docs, Sheets, Slides, Forms, Drive, Gmail, Calendar, Meet, Maps |
 | Code | GitHub, GitLab (including self-hosted `gitlab.*`), npm, Stack Overflow |
-| Work | Asana, ClickUp, Miro, Slack, Microsoft Teams, Fathom |
-| AI | Claude, ChatGPT |
+| Work | Asana, ClickUp, Miro, Notion, Figma, Trello, Linear, Jira, Confluence, Slack, Microsoft Teams, Zoom, Loom, Discord, Fathom |
+| AI | Claude, ChatGPT, Gemini, Perplexity |
 | Video and social | YouTube, X, Twitter, Facebook, Instagram, LinkedIn, Telegram |
-| Reading | Wikipedia, Medium, Habr, Yandex |
+| Reading | Wikipedia, Medium, Reddit, Habr, Yandex |
 
 Missing a site you use? [Open an issue](https://github.com/apankov/obsidian-link-logos/issues).
 
