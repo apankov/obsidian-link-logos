@@ -57,6 +57,7 @@ const WEBSITES: readonly Website[] = [
 	{ domains: ['medium.com'], icon: 'medium' },
 	{ domains: ['reddit.com', 'redd.it'], icon: 'reddit' },
 	{ domains: ['stackoverflow.com'], icon: 'stackoverflow' },
+	{ domains: ['w3.org'], icon: 'w3c' },
 	{ domains: ['wikipedia.org'], icon: 'wikipedia' },
 	{ domains: ['linkedin.com'], icon: 'linkedin' },
 	{ domains: ['instagram.com'], icon: 'instagram' },

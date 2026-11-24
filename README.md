@@ -29,7 +29,7 @@ Trade-off: only the sites listed below get an icon. For every website, use [Link
 | Category | Sites |
 |---|---|
 | Google | Docs, Sheets, Slides, Forms, Drive, Gmail, Calendar, Meet, Maps |
-| Code | GitHub, GitLab (including self-hosted `gitlab.*`), npm, Stack Overflow |
+| Code | GitHub, GitLab (including self-hosted `gitlab.*`), npm, Stack Overflow, W3C |
 | Work | Asana, ClickUp, Miro, Notion, Figma, Trello, Linear, Jira, Confluence, Slack, Microsoft Teams, Zoom, Loom, Discord, Fathom |
 | AI | Claude, ChatGPT, Gemini, Perplexity |
 | Video and social | YouTube, X, Twitter, Facebook, Instagram, LinkedIn, Telegram |

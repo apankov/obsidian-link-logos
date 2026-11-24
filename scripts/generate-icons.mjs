@@ -63,6 +63,7 @@ const ICONS = {
 	"telegram": [current, "siTelegram"],
 	"trello": [current, "siTrello"],
 	"twitter": [legacy, "siTwitter"],
+	"w3c": [legacy, "siW3c"],
 	"wikipedia": [current, "siWikipedia"],
 	"x": [current, "siX"],
 	"yandex": file("yandex.svg", "FC3F1D"),

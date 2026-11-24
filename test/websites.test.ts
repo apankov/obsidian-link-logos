@@ -56,6 +56,7 @@ describe('findIcon', () => {
 		['https://someone.medium.com/post', 'medium'],
 		['https://www.reddit.com/r/ObsidianMD/', 'reddit'],
 		['https://stackoverflow.com/questions/123', 'stackoverflow'],
+		['https://www.w3.org/TR/did-core/', 'w3c'],
 		['https://en.wikipedia.org/wiki/Obsidian', 'wikipedia'],
 		['https://ru.wikipedia.org/wiki/Obsidian', 'wikipedia'],
 		['https://www.linkedin.com/in/someone', 'linkedin'],
